@@ -18,3 +18,10 @@ p
 5
 Output:
 Invalid Text
+
+Input:
+4
+p
+2
+Output:
+12
