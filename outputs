@@ -1,0 +1,20 @@
+Input:
+5
+p
+4
+Output:
+120
+
+Input:
+5
+p
+0
+Output:
+1
+
+Input:
+4
+p
+5
+Output:
+Invalid Text
